@@ -5,7 +5,7 @@ from PIL import Image
 
 recognizer = cv2.face.LBPHFaceRecognizer_create()
 
-path = 'E:\Face_rec\MyData\Faces\subhs'
+path = '.\Faces\subhs'
 
 def list_img(path):
 
